@@ -1,6 +1,9 @@
-<div align="center"><img alt="WWDP logo" src="https://raw.githubusercontent.com/WWhiteDreamProject/wwdpublic/master/Resources/Textures/_White/Logo/WWDPDarkSplashIcon.png" width="512px" /></div>
+<div align="center"><img alt="logo" src="https://wallpaperaccess.com/full/1934813.jpg" width="512px" /></div>
 
 ---
+
+ya_ne_pridumal_name - проект, нацеленный на улучшение элементов выживания и взаимодействия с космосом в сеттинге гражданской войны, со своим лором и наработками. Основной геймлуп состоит в сражениях между флотилиями разных группировок, состоящих из разнообразных шаттлов: от мелких шлюпок класса "Клоп" до командных исполинов класса "Мегалодон".
+Данный проект является форком WWDP.
 
 WWDP - форк Einstein Engines, представляющего из себя хард-форк  [Space Station 14](https://github.com/space-wizards/space-station-14), построенный на идеалах и дизайнерском вдохновении семейства серверов BayStation 12 от Space Station 13 с упором на модульный код, который каждый может использовать для создания RP-сервера своей мечты.
 
